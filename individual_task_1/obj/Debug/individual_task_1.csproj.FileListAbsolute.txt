@@ -1,0 +1,11 @@
+D:\Tasks\Task1\individual_task_1\individual_task_1\bin\Debug\individual_task_1.exe.config
+D:\Tasks\Task1\individual_task_1\individual_task_1\bin\Debug\individual_task_1.exe
+D:\Tasks\Task1\individual_task_1\individual_task_1\bin\Debug\individual_task_1.pdb
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.csproj.AssemblyReference.cache
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.csproj.SuggestedBindingRedirects.cache
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.Form1.resources
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.Properties.Resources.resources
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.csproj.GenerateResource.cache
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.csproj.CoreCompileInputs.cache
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.exe
+D:\Tasks\Task1\individual_task_1\individual_task_1\obj\Debug\individual_task_1.pdb
